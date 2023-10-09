@@ -1,16 +1,11 @@
-# o_que_sinto
+# O que sinto?
 
-A new Flutter project.
+> Em construção
 
-## Getting Started
+Projeto para estudar Flutter e meus sentimentos.
 
-This project is a starting point for a Flutter application.
+## Projeto
 
-A few resources to get you started if this is your first Flutter project:
+Quando comecei a fazer terapia descobri que eu não sabia ao certo o sentimento que estava sentindo. Foi quando descobri a roda das emoções (existem diversas por aí), e comecei a usar para me ajudar.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+A ideia desse app é aplicar conhecimentos de Flutter para fazer um app que implemente essa roda das emoções.
